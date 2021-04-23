@@ -1,0 +1,31 @@
+﻿nav
+{
+    background-color:gray;
+    float:left;
+    height:100vh;
+    padding:15px;
+}
+
+ul{
+    list-style-type:disc;
+    margin:0;
+    padding:0;
+
+}
+
+li a{
+    background-color:white;
+    color:crimson;
+    text-transform:uppercase;
+    text-decoration:none;
+    margin:5px;
+    padding: 1em 1.5em;
+    display: block;
+    border-radius: 20px;
+
+}
+
+div{
+    margin:25px;
+
+}
